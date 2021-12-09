@@ -8,7 +8,7 @@
 ## Built with
 - Python
 
-## Technical Techniques
+## Technical Skills
 - Pulling data from `.csv`
 - Iterating through rows
 - Calculating summary statistics: sum, average, max, min
