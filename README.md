@@ -1,4 +1,4 @@
-# Financial and Election Data Programming
+# financial-and-election-data-programming
 ## About Py Me Up, Charlie
 
 `Py Me Up, Charlie` is a Python data analytics challenge consisting of two parts: `PyBank` and `PyPoll`.
